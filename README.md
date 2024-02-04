@@ -13,6 +13,5 @@
 
 📫 How to reach me: use my web jasilp.web.app
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasil123&show_icons=true&theme=radical)](https://github.com/jasil123)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasil123&layout=compact&theme=radical)](https://github.com/jasil123)
