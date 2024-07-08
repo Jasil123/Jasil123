@@ -8,7 +8,7 @@
 
 📚 I’m currently learning: revisioning
 
-💬 Ask me about: when you start lean the code , the answer is in 15 year old now
+💬 Ask me about: when you start lean the code , the answer is in 15 year old .now
 ⚡ Fun fact: im 18 years old
 
 📫 How to reach me: use my web jasilp.web.app
