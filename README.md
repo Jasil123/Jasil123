@@ -12,7 +12,7 @@
 ⚡ Fun fact: im 18 years old
 
 📫 Twitter :  https://x.com/LegendofArcadia
-📫 How to reach me: use my web https://jasilp.web.app
+📫 Web  :     https://jasilp.web.app
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasil123&layout=compact&theme=radical)](https://github.com/jasil123)
